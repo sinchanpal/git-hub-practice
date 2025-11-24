@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 I set the color as Green
-=======
-My friend set the color as BLUE
->>>>>>> change-featured
